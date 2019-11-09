@@ -1,3 +1,5 @@
+Nama : Degi Candra Kamarullah
+
 Tools :
 - Windows 10 Version:  Enterprise  64-bit
 - XAMPP Version: 7.3.10
@@ -7,9 +9,9 @@ Tools :
 
 
 Database :
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=i3l
-DB_USERNAME=root
-DB_PASSWORD=
+- DB_CONNECTION=mysql
+- DB_HOST=127.0.0.1
+- DB_PORT=3306
+- DB_DATABASE=i3l
+- DB_USERNAME=root
+- DB_PASSWORD=
